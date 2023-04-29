@@ -12,4 +12,4 @@ M300 S200 P3000 ; beep for 3 seconds
 M117 drying finished ; show message
 
 
-; estimated printing time (normal mode) = 6h 5m 0s
+; estimated printing time (normal mode) = 6h 1m 0s

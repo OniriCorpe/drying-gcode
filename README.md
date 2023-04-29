@@ -6,5 +6,12 @@ I'm using the temperature and waiting time [recommended by Prusa](https://help.p
 
 ## usage
 
+- read [the licence](https://github.com/OniriCorpe/drying-gcode/blob/main/LICENCE.md)
 - place the filament spool and a cardboard box on the heating bed
 - launch the gcode corresponding to the plastic type
+
+## why?
+
+buying specialized equipment just for occasional use is totally dispensable  
+when you have hardware capable of doing something, there is no need to buy another thing to do the exact same thing  
+capitalism tends to make us believe the opposite

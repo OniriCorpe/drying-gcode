@@ -6,8 +6,8 @@ I'm using the temperature and waiting time [recommended by Prusa](https://help.p
 
 | Material | Temperature | Time |
 | --- | --- | --- |
-| PLA | 45ºC | 6 hours |
-| PETG | 55ºC | 6 hours |
+| [PLA](https://github.com/OniriCorpe/drying-gcode/blob/main/PLA%20(6h).gcode) | 45ºC | 6 hours |
+| [PETG](https://github.com/OniriCorpe/drying-gcode/blob/main/PETG-TPU%20(6h).gcode) | 55ºC | 6 hours |
 
 ## usage
 

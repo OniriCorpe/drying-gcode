@@ -11,6 +11,10 @@ I'm using the temperature and waiting time [recommended by Prusa](https://help.p
 
 the PETG file can also be used for TPU, which seems to have similar recommended temperatures
 
+if you have questions about some gcode commands, feel free to check [the documentation](https://reprap.org/wiki/G-code)
+
+if you think of an improvement, do not hesitate to [open an issue](https://github.com/OniriCorpe/drying-gcode/issues)
+
 ## usage
 
 - read [the licence](https://github.com/OniriCorpe/drying-gcode/blob/main/LICENCE.md)

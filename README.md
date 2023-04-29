@@ -9,7 +9,7 @@ I'm using the temperature and waiting time [recommended by Prusa](https://help.p
 | [PLA](https://github.com/OniriCorpe/drying-gcode/blob/main/PLA%20(6h).gcode) | 45ºC | 6 hours |
 | [PETG](https://github.com/OniriCorpe/drying-gcode/blob/main/PETG-TPU%20(6h).gcode) | 55ºC | 6 hours |
 
-the PETG file is also can also be used for TPU, which seems to have similar recommended temperatures
+the PETG file can also be used for TPU, which seems to have similar recommended temperatures
 
 ## usage
 

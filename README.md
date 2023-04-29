@@ -16,6 +16,7 @@ the PETG file can also be used for TPU, which seems to have similar recommended 
 - read [the licence](https://github.com/OniriCorpe/drying-gcode/blob/main/LICENCE.md)
 - place the filament spool and a cardboard box on the heating bed
 - launch the gcode corresponding to the plastic type
+- the script will automatically stop and beep at the end of the drying time
 
 ## why?
 

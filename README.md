@@ -24,6 +24,8 @@ buying specialized equipment just for occasional use is totally dispensable
 when you have hardware capable of doing something, there is no need to buy another thing to do the exact same thing  
 capitalism tends to make us believe the opposite
 
+also I don't recommend to dehydrate your spools in your food oven, possible residues or vapors of plastic are not good to eat
+
 ## I don't like your choices for temperature or heating time
 
 okay, feel free to adapt the files, I don't care, as long as you respect the license

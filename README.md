@@ -1,6 +1,6 @@
 # drying-gcode
 
-some handcrafted gcode files for drying filament using the heated bed
+some handcrafted gcode files for drying filament using the heated bed of a 3D printer
 
 I'm using the temperature and waiting time [recommended by Prusa](https://help.prusa3d.com/article/drying-filament_332086#drying-methods)
 

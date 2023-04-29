@@ -5,6 +5,7 @@ some handcrafted gcode files for drying filament using the heated bed
 I'm using the temperature and waiting time [recommended by Prusa](https://help.prusa3d.com/article/drying-filament_332086#drying-methods)
 
 | Material | Temperature | Time |
+| --- | --- | --- |
 | PLA | 45ºC | 6 hours |
 | PETG | 55ºC | 6 hours |
 
